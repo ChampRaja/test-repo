@@ -1,0 +1,3 @@
+: https://docs.amplify.aws/start
+: https://docs.amplify.aws/start/getting-started/installation/q/integration/react
+: https://docs.amplify.aws/lib/interactions/chatbot/q/platform/js
